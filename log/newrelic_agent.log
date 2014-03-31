@@ -1,0 +1,15 @@
+# Logfile created on 2014-03-31 11:49:28 -0700 by logger.rb/36483
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] INFO : Starting the New Relic agent in "development" environment.
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] INFO : Reading configuration from 
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] ERROR : Unable to read configuration file : Is a directory - /Users/hakimu/Documents/heroku_nr_sinatra_app
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] INFO : Enabling the Request Sampler.
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] INFO : Environment: development
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] INFO : No known dispatcher detected.
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] INFO : Application: development
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] INFO : Installing Net instrumentation
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] INFO : Installing Sinatra instrumentation
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] INFO : Installing deferred Rack instrumentation
+[03/31/14 11:49:28 -0700 hakimu-mbp (14414)] INFO : Finished instrumentation
+[03/31/14 11:49:39 -0700 hakimu-mbp (14414)] INFO : Doing deferred dependency-detection before Rack startup
